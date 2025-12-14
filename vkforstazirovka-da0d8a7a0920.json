@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "vkforstazirovka",
+  "private_key_id": "da0d8a7a09208ccaef728f5e598a80608e5bd233",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDS9/KkPuxnU0T9\nInttLx1RPzKagLiirq0l7hxtnhOjtm/OiDYT85XcRQ/XSeUR/vFmayMxonlfoCEu\nuzG/Jn0D6BgkfjCn4iW/PU4KeMrfWoIEo1LBQAsPvSllOuhHL6IYSATRZ5ViY+RY\nocuweGnaXkQp88wWI6b8KHl7E5ok6yRYWl8EFwQXh2EDqSJ9jijktAhZGxsguxvr\nJIOc0zbc/c3o9DTrkBJo0Y6elI0P+JBVtaxoOW4uWgUMLDa2ssjtCme1ZE8OrsCb\ngUojNuo8byjoQFb0sObjwUm2sNOyWs7KMoOOlCKhT01YeHiFU77SxaqeFg3O0auX\nEtoktBTrAgMBAAECggEAIa34vBTZi8NE476CAtO/M+3JZ9X94+bL+J6zRiKy0vN4\nlPm03GmKNqCF32JKIh3XrviSpUVhaA05zuqOjgwYcCu40vacUOjvCsFAOLbA+HhM\nAm6KcxSEz43s0l7dnyOxFnxE3KNTO2JkHWwzBuiqSXS8IBBuN+iYK3BQuH/QH21q\nQgWQRmJprdCk761fLQjfJFp437PQ6v9oJdrRrKNiUNWIjUg+Cle2DRJEqubFTOd2\n8H3fgdLRPwirjY/cH0nn0xhmZzPkHb9ukaA+6oKu19ue/Ra8CyMB49tSvvpl+zaj\nqMGllCOS12zYgWZ7GIWDpvyspA/RTcFH/1aO8pGGmQKBgQD4VUKOWnbT35wsZv1Y\nILlipYOj1i8Tg4pHQmdGnaUMHH1Vt2cpyU2TJzfa/c+HNwjAjCjEvJYVS+qBzkM8\n3Eu5EMXR9S5SMIBPQ8X3lvv1ju0lk8Vo/SHoXpGW1fKe5SsqUHU2a14Rox8yM0IY\nUM0lMTdKdGWwpP77/laLYaR8eQKBgQDZe18byz2alsZNFa8Vxr2+0K/to9PHVxsA\nWmq31DNFD/RH7Aqba+pggT85YUm78uEDHFf3vckf5sGdMnLjJJPimzBZhP2E7tS4\nyfE2g1Vo3VtIi7ln/miQ58nb52g2mOHP0uHisXqHfj0G6o/n0iXr5MM/o35K8eYF\nn9eenHy7gwKBgHpoDFZ+4POu1RxN57L47mhhjXHEsY+81vwpDx8Ptbsyj9Uggglm\n4IYYXr/jO9g6mGXQsIfJLXFx6jXxpdLqA6lFSz0izaJVpelsTrisA6YWvW44WKZX\nn88aTkk7TExmSdChuCUK52NqNIZaHco+ieA7UjWxCi74JXew9pfdmWaBAoGAWYCP\nXKXg3WztgS3KV2DqF8xUiq0ga+oqH5QWVT8MNoDhXHQEzX+0/jBSr6+dI69J8PjK\nLxe43NsflSz84QPdpKWPWVgE6Z9Mhhv9nByimrx2Y720+NpXeEMb7NcoKUfzro6w\nDZZSwc4vGViRDquKlbEYtWj4galZq7jjiNAH+TcCgYApU65xHu4Yc2PDG1VPen+E\nclUfTwHWp/Lt+A/6eHl/wqC4M6LExipYOFxt9DvlUkIVafBHCJNgng/9ZAcZKClG\n1Pv0uTV31StSjCGJFSoWm2GRUrV3Qg0h049QZQkpZHKMLjgxo9tz8TCC2vrJM2bu\nPXEPT99K4GAz2hx0PykgRQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "services-vk-account@vkforstazirovka.iam.gserviceaccount.com",
+  "client_id": "109156409375320369808",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/services-vk-account%40vkforstazirovka.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
