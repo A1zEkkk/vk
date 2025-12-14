@@ -9,7 +9,7 @@ from services.table.utils import append_to_google_sheets
 
 file_router = Router()
 
-
+#Наш обработчик
 @file_router.message(F.document)
 async def create_data(message: types.Message):
     file_info = message.document

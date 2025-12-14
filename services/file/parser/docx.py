@@ -5,6 +5,8 @@ from cfg.telegram import logger
 
 class DocxFile(BaseFileParser):
 
+    """Класс обработчик маркдауна"""
+
     async def parse(self):
         self.file_data_stream = await self.file_manager.download_to_buffer(self.file_id)
 

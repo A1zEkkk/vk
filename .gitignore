@@ -1,0 +1,5 @@
+# Google service accounts
+*.json
+
+# env
+.env

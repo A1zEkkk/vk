@@ -7,6 +7,8 @@ import asyncio
 
 
 class DataManager:
+    """Итоговый класс, который после обработки содержит всю информацию. Информация указана в инициализации"""
+
     def __init__(self, processor: FileProcessor):
         self.data = processor.get_data()
         self.language_for_llm = self._normalize_language(self.data["language"])

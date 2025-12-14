@@ -4,6 +4,8 @@ from typing import List
 from services.nltk.datamanager import DataManager
 
 
+"""Для работы с таблицами"""
+
 table_link = "https://docs.google.com/spreadsheets/d/1ZBrJnjxnG1ewB4s5PN7D0KXFFHEBaiJ81tHAaJ7J02E/edit?gid=0#gid=0"
 table_id = "1ZBrJnjxnG1ewB4s5PN7D0KXFFHEBaiJ81tHAaJ7J02E"
 

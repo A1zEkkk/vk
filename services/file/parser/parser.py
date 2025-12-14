@@ -4,6 +4,8 @@ from abc import ABC, abstractmethod
 from services.file.file_manager import FileManager
 
 class BaseFileParser(ABC):
+    """Базовый абстрактный класс"""
+
     def __init__(self, file_manager: FileManager, file_id: str, file_name: str):
         self.file_manager = file_manager
         self.file_id = file_id

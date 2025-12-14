@@ -4,7 +4,7 @@ from .parser import BaseFileParser
 
 
 class TxtFile(BaseFileParser):
-
+    """Класс, который обрабатывает txt файл"""
     async def parse(self):
         self.file_data_stream = await self.file_manager.download_to_buffer(self.file_id)
 

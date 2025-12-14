@@ -7,6 +7,8 @@ class FileManager:
     def __init__(self, bot: Bot):
         self.bot = bot
 
+    """Класс для загрузки файла в оперативную память"""
+
 
     async def download_to_buffer(self, file_id: str) -> io.BytesIO | None:
         file_buffer = io.BytesIO()
